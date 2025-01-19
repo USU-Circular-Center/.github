@@ -1,16 +1,16 @@
-# Welcome to North Sumatra University Circular Center
+# Welcome to Circular Center Universitas Sumatera Utara
 
-Welcome to the official GitHub organization for the **North Sumatra University Circular Center**. We are dedicated to fostering a sustainable future by improving waste management and promoting the circular economy within North Sumatra University. Through innovative technology solutions, we aim to create a cleaner, greener campus and inspire sustainable practices across the region.
+Welcome to the official GitHub organization for **Circular Center USU**. We are dedicated to fostering a sustainable future by improving waste management and promoting the circular economy within Universitas Sumatera Utara. Through innovative technology solutions, we aim to create a cleaner, greener campus and inspire sustainable practices across the region.
 
 ## Our Mission
 Our mission is to:
 - Develop cutting-edge software to support the principles of the circular economy.
-- Improve waste management and resource recovery processes at North Sumatra University.
+- Improve waste management and resource recovery processes at Universitas Sumatera Utara.
 - Promote sustainability through technology-driven solutions.
 - Collaborate with students, researchers, and stakeholders to advance circular economy practices.
 
 ## What We Do
-We leverage the power of technology to:
+We utilize the power of technology to:
 - Build tools for tracking and managing waste streams.
 - Create systems for recycling and resource recovery optimization.
 - Develop educational platforms to spread awareness about the circular economy.
